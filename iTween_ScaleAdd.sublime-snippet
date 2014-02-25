@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+iTween.ScaleAdd(${1:GameObject target}, iTween.Hash("${2:name}" = ${3:value}));
+]]></content>
+	<tabTrigger>iTween.ScaleAdd()</tabTrigger>
+	<scope>source.cs</scope>
+	<description>iTween</description>
+</snippet>

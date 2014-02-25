@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+iTween.RotateTo(${1:GameObject target}, iTween.Hash("${2:name}" = ${3:value}));
+]]></content>
+	<tabTrigger>iTween.RotateTo()</tabTrigger>
+	<scope>source.cs</scope>
+	<description>iTween</description>
+</snippet>
